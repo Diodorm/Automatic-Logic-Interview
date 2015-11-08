@@ -1,2 +1,3 @@
 # Automatic-Logic-Interview
-Questions
+Questions asked for Automatic Logic Interview
+Solutions
